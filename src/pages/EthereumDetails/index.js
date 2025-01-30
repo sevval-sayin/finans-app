@@ -13,7 +13,7 @@ import {
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import logo from "../../assets/images/logo.png"; // Logonun yolu
+import logo from "../../assets/images/logo.png";
 
 const EthereumDetails = () => {
   const particlesInit = useCallback(async (engine) => {
